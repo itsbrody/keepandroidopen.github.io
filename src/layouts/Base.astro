@@ -211,7 +211,6 @@ const dir = isRtl(lang) ? "rtl" : "ltr";
     }
 
     .header-icon-link {
-      color: var(--pico-text);
       padding: 0.5rem;
       transition: all 0.3s ease;
       display: inline-flex;
@@ -220,6 +219,10 @@ const dir = isRtl(lang) ? "rtl" : "ltr";
 
     .header-icon-link:hover {
       opacity: 0.8;
+    }
+
+    .header-icon-link img {
+      display: block;
     }
 
     .callout-warning {

@@ -9,6 +9,9 @@
 #  url: ""
 #  poc: ""
 #  region: ""
+#  social-mastodon: ""
+#  social-bluesky: ""
+#  social-x: ""
 
 - organization: "AdGuard"
   url: "adguard.com"
