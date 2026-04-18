@@ -10,8 +10,8 @@
 # 2. Uncomment the line (remove the leading "# ") and replace the English
 # text with your translation.
 #
-# 3. Keep HTML tags (<strong>, <a href="...">, <em>, <i>) intact — only
-# translate the visible text between the tags.
+# 3. Use markdown for formatting: **bold**, *italic*, [link text](url).
+#    Do not use raw HTML tags like <strong> or <a href="...">.
 #
 # 4. Keep YAML quoting intact: use double quotes for values that contain
 # special characters. For long values, use >- for folded scalars.
